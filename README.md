@@ -716,7 +716,8 @@ Contact us page
 
 ## OUTPUT:
 
-![alt text](<Screenshot (36).png>)
+![alt text](<Screenshot 2025-11-12 192122.png>)
+
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
